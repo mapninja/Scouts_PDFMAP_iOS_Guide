@@ -7,9 +7,14 @@ This guide is intended to get you up and running using Avenza's PDF-Maps for iOS
 
 1. First, go to the App Store, and download the free app, PDF Maps by Avenza.
 
+###Install Dropbox
+
+1. Install Dropbox on your iOS Device
+2. Setup and login to the Dropbox App.
+
 ###Download the Map
 
-2. Once you have installed PDF Maps on your device, use your device browser to go to http://bit.ly/GMFPDF
+2. Once you have installed PDF Maps on your device, use your device browser to go to http://bit.ly/scoutmaps
 
   ![iPhone Screenshot](https://dl.dropboxusercontent.com/u/31204294/images/iPhoneDropbox.PNG "iPhone Screenshot")  ![iPhone Screenshot](https://dl.dropboxusercontent.com/u/31204294/images/iPhoneDropBoxDOwnload.PNG "iPhone Screenshot")
 
