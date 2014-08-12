@@ -10,22 +10,14 @@ This guide is intended to get you up and running using Avenza's PDF-Maps for iOS
 ###Install Dropbox
 
 1. Install Dropbox on your iOS Device
-2. Setup and login to the Dropbox App.
+2. Setup and login to the Dropbox App
+3. You should have a shared folder called "Scouts" if not, arrange with Sid Miller to have the folder shared with your Dropbox email address.
 
 ###Download the Map
 
-2. Once you have installed PDF Maps on your device, use your device browser to go to http://bit.ly/scoutmaps
+In PDFMaps, click on the Add Map icon and select the Dropbox Option.
 
-  ![iPhone Screenshot](https://dl.dropboxusercontent.com/u/31204294/images/iPhoneDropbox.PNG "iPhone Screenshot")  ![iPhone Screenshot](https://dl.dropboxusercontent.com/u/31204294/images/iPhoneDropBoxDOwnload.PNG "iPhone Screenshot")
-
-3. Download the map you need, as well as the overview map which has all seven routes on it.
-
-###Open the Map in PDF Maps
-
-4. Once the map is downloaded, it will be shown in the Safari Browser. Clicking on the map should bring up the Open With... options at the top of the browser window.
-
-  ![iPhone Screenshot](https://dl.dropboxusercontent.com/u/31204294/images/iPhoneDropBoxSMapView.PNG "iPhone Screenshot")  ![iPhone Screenshot](https://dl.dropboxusercontent.com/u/31204294/images/iPhoneSafariOpenIn.PNG "iPhone Screenshot")  ![iPhone Screenshot](https://dl.dropboxusercontent.com/u/31204294/images/iPhoneOpenInDIalog.PNG "iPhone Screenshot")
-
+3. Click on the 
 5. This should launch PDF Maps and begin the import process
 
   ![iPhone Screenshot](https://dl.dropboxusercontent.com/u/31204294/images/iPhonePDFMAPSProcessing2.PNG "iPhone Screenshot")
